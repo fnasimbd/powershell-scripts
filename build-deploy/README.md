@@ -11,19 +11,13 @@ Usage
 
 Sample dir structure
 
-ProjectFolder
-
-|--- ...
-
-|--- ...
-
-|--- ...
-
-|--- Project.csproj
-
-|--- Projct.nuspec
-
-|--- pub-nuget-pack.ps1
+ProjectFolder<br/>
+|--- ... <br/>
+|--- ... <br/>
+|--- ... <br/>
+|--- Project.csproj <br/>
+|--- Projct.nuspec <br/>
+|--- pub-nuget-pack.ps1 <br/>
 
 
 Notes
