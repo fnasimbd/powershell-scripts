@@ -24,7 +24,7 @@ Notes
 
 Description
 
-Increases the major or minor version (as specified by user) in *AssemblyInfo.cs"
+Increases the major or minor version (as specified by user) in *AssemblyInfo.cs*.
 
 Notes
 - *tricky case:* updating 1.99.0.0 gives 1.100.0.0 (not 2.0.0.0 or anything else.)
