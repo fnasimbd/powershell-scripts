@@ -18,6 +18,8 @@ Notes
 - currently supports only *msbuild* build engine.
 - currently supports only *subversion* version control system.
 
+-------
+
 **update-version.ps1**
 
 Description
