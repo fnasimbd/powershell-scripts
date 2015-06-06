@@ -9,7 +9,7 @@ PowerShell scripts to automate build, packaging, and deployment of .NET projects
 
 Description
 
-Publishes a Visual Studio project as a NuGet package and updates its specified dependents.
+Publishes a *Visual Studio* project as a *NuGet* package and updates its specified dependents.
 
 Usage
 
