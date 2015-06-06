@@ -1,5 +1,9 @@
-Powershell Build and Deployment Scripts
+PowerShell Build and Deployment Scripts
 ---------------------------------------
+
+PowerShell scripts to automate build, packaging, and deployment of .NET projects.
+
+----------
 
 **pub-nuget-pack.ps1**
 
@@ -18,7 +22,7 @@ Notes
 - currently supports only *msbuild* build engine.
 - currently supports only *subversion* version control system.
 
--------
+----------
 
 **update-version.ps1**
 
